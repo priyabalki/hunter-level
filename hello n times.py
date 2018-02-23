@@ -7,6 +7,6 @@ printf("\nenter the limit\n");
 scanf("%d",&n);
 for(i=0;i<n;i++)
 {
-printf("\n%s",a);
+ printf("\n%s",a);
 }
 }
