@@ -16,5 +16,5 @@ void main()
     }
 avg=sum/n;
 printf("%d",avg);
-getch();   
+getch();
 }
