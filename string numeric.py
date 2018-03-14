@@ -25,4 +25,4 @@ void main()
         printf("the string is not numeric");
     }
     getch();
-    }
+}
