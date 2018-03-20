@@ -12,3 +12,4 @@ re=m1-m2;
 printf("%d\t%d",er,re);
 getch();
 }
+}
