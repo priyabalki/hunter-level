@@ -9,3 +9,4 @@ time=min/60;
 printf("time in hours is %d hours",time);
 getch();
 }
+
