@@ -13,3 +13,4 @@ for(i=0;i<n;i++)
 printf("%d\t%d\n",a[i],i);
 }
 }
+
