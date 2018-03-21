@@ -12,3 +12,4 @@ void main()
      printf("the swap no is %d",n);
      printf("the value of swap no is %d",i);
      }
+
