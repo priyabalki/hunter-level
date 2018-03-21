@@ -30,5 +30,4 @@ int main()
     printf("Alph = %d\n", alph);
     printf("Dig= %d\n", dig);
     printf("Special characters = %d", ot);
-
     return 0;
