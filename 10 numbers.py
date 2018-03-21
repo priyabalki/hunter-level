@@ -23,3 +23,4 @@ a[j]=k;
 printf("\nThe maximum number is:%d",a[9]);
 getch();
 }
+
