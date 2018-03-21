@@ -14,3 +14,4 @@ fact=fact*(n-1);
 }
 return o;
 }
+
