@@ -26,7 +26,6 @@ int main()
 
         s++;
     }
-
     printf("Alph = %d\n", alph);
     printf("Dig= %d\n", dig);
     printf("Special characters = %d", ot);
