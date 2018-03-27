@@ -10,20 +10,20 @@ void main()
 	length1=strlen(p);
 	if(length==length1)
 	{
-		for(i=0;i<length;i++)
-		{
-			if(s[i]==p[i])
-			{
-				count=0;
-				}
-			else
-      }
-			count=count+1;
-		}
-		if(count==1)
-		{
-			printf("yes\n");
-		}
+	for(i=0;i<length;i++)
+	{
+	if(s[i]==p[i])
+	{
+	count=0;
+	}
+	else
+	}
+	count=count+1;
+	}
+	if(count==1)
+	{
+	printf("yes\n");
+	}
 	else
   {
 	printf("no\n");
