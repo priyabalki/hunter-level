@@ -18,3 +18,4 @@ for(i=l;i<=r;i++)
 }
 	printf("%d",tot);
 }
+
