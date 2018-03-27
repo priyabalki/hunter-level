@@ -12,5 +12,6 @@ void main()
 		if(a[g]==g)
 		printf("%d",a[g]);
 	}
+	
  getch();
 }
